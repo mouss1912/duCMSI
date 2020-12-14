@@ -1,0 +1,32 @@
+#logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+#baniere
+{
+    width: 90%;
+    height: 100px;
+    background-image: url("moma.png");
+    margin-top: 1%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+
+}
+img
+{
+    width: 90px;
+    height: 90px;
+}
+h1, h2, h3
+{
+    text-align: center;
+    color: blue;
+}
+p{
+    text-align: center;
+}
+script{
+    text-align: right;
+}
